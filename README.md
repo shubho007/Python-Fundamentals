@@ -1,2 +1,2 @@
 # Python-Fundamentals
-Everything about Python under one roof
+Everything About Python Under One Roof
